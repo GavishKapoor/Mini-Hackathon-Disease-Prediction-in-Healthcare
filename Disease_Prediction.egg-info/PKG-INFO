@@ -1,5 +1,7 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: Disease-Prediction
 Version: 0.0.2
 Author: Gavish Kapoor
 Author-email: example@gmail.com
+Dynamic: author
+Dynamic: author-email
